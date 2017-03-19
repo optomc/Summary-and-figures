@@ -11,3 +11,6 @@ See also the following journal articles.
 Shin, Younghoon, and Hyuk-Sang Kwon. "Mesh-based Monte Carlo method for fibre-optic optogenetic neural stimulation with direct photon flux recording strategy." Physics in medicine and biology 61.6 (2016): 2265.
 
 DOI:  10.1088/0031-9155/61/6/2265
+
+Shin, Y., Kim, D., Lee, J., & Kwon, H. S. (2017). 3D Monte Carlo model with direct photon flux recording for optimal optogenetic light delivery. In Proc. of SPIE Vol (Vol. 10052, pp. 100520G-1).
+DOI: 10.1117/12.2250679
